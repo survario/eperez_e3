@@ -3,7 +3,7 @@ Emmanuel Perez - Desafio Tercera Entrega del Proyecto Final
 
 Para ejecutar la aplicación, 
 
-Ingrese en la terminal, ubicado en el directorio del proyecto, el comando:
+Ubicado en el directorio del proyecto, ingrese en la terminal el comando:
 
 - npm start
 
@@ -15,7 +15,7 @@ Para ejecutar la aplicación en modo CLUSTER, ingrese el comando:
 
 A través del navegador, acceder a la ruta:
 
-- localhost:8080/
+localhost:8080/
 
 
 ------------------------------------------------------------------------
@@ -25,6 +25,8 @@ A través del navegador, acceder a la ruta:
 - Cuando un usuario logueado confirmar su carrito, el sistema envía un email al admin con los detalles del pedido.
 
 - La aplicación se conecta a MongoDB Atlas
+
+--------------------------------------------------------------------------------------------------
 
 
 Para realizar las pruebas en Postman:
@@ -63,9 +65,11 @@ Para realizar las pruebas en Postman:
         phone: Number,
 
         avatar: String
-        
+
     }
 
+
+-----------------------------------------------------------------------------------------------------
 
 Sesión Admin:
 
